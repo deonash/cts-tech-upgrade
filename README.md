@@ -1,1 +1,3 @@
-# cts-tech-upgrade
+# CTS TECH Upgrade
+
+Lab sessions repo and more!

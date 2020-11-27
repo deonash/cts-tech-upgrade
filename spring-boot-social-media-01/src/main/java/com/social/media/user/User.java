@@ -9,6 +9,9 @@ public class User{
 	
 	
 	
+	public User() {
+			}
+
 	public User(Integer id, String userName, Date birthDate) {
 		super();
 		this.id = id;

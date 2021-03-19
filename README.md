@@ -1,3 +1,5 @@
 # CTS TECH Upgrade
 
-Lab sessions repo and more!
+Find Lab sessions repo and more! https://techoral.com/openjdk.html
+
+
